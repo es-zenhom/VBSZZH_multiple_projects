@@ -1,0 +1,44 @@
+WWH:
+summweights: 633.639
+
+events: 628000
+numberm: 231998
+numberm1: 549681
+overlab1: 1148610
+cut2: 34822
+cut1: 520307
+nooffat3: 34822
+
+
+WZH:
+summweights: 672.689
+607000
+numberm: 187315
+numberm1: 516619
+overlab1: 1099447
+cut2: 32599
+cut1: 485875
+nooffat3: 32599
+
+VBSOSWWH.
+summweights: 1079.77
+
+643000
+numberm: 192572
+numberm1: 537253
+overlab1: 1096860
+cut2: 27395
+cut1: 511891
+nooffat3: 27395
+
+VBSZZH:
+summweights: 510.45
+
+644000
+numberm: 201935
+numberm1: 581474
+overlab1: 1347075
+cut2: 42301
+cut1: 532421
+nooffat3: 42301
+	

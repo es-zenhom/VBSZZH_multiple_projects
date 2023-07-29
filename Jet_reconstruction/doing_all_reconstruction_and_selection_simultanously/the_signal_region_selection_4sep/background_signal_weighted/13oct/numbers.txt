@@ -1,0 +1,113 @@
+background:
+
+cut1: 340226
+cut2: 602
+cut3: 194
+cut4: 94
+cut5: 52
+events_count: 1.32e+06
+Nb_lose_nonoverlabbing: 65
+cut1 weighted:2.42624e+07
+cut2 weighted:42930.2
+cut3 weighted:13834.7
+cut4 weighted:6703.39
+cut5 weighted:3708.26
+nocut weighted:9.41327e+07
+error cut1 weighted:41595.9
+error cut2 weighted:1749.7
+error cut3 weighted:993.27
+error cut4 weighted:691.402
+error cut5 weighted:514.243
+error nocut weighted:81932
+
+
+VBSOSWWH
+
+cut1: 498051
+cut2: 20900
+cut3: 18403
+cut4: 16667
+cut5: 14602
+events_count: 644000
+Nb_lose_nonoverlabbing: 5192
+cut1 weighted:185.098
+cut2 weighted:7.76737
+cut3 weighted:6.83937
+cut4 weighted:6.1942
+cut5 weighted:5.42675
+nocut weighted:239.339
+error cut1 weighted:0.26228
+error cut2 weighted:0.053728
+error cut3 weighted:0.0504164
+error cut4 weighted:0.0479796
+error cut5 weighted:0.044909
+error nocut weighted:0.298243
+
+
+VBSZZH
+
+cut1: 529052
+cut2: 34327
+cut3: 30528
+cut4: 27671
+cut5: 24683
+events_count: 644500
+Nb_lose_nonoverlabbing: 8652
+cut1 weighted:90.3724
+cut2 weighted:5.86372
+cut3 weighted:5.21478
+cut4 weighted:4.72675
+cut5 weighted:4.21634
+nocut weighted:110.093
+error cut1 weighted:0.124247
+error cut2 weighted:0.0316487
+error cut3 weighted:0.029846
+error cut4 weighted:0.0284152
+error cut5 weighted:0.0268372
+error nocut weighted:0.137135
+
+
+VBSWZH
+
+cut1: 476794
+cut2: 25944
+cut3: 22870
+cut4: 20848
+cut5: 18545
+events_count: 607500
+Nb_lose_nonoverlabbing: 6683
+cut1 weighted:125.695
+cut2 weighted:6.83952
+cut3 weighted:6.02913
+cut4 weighted:5.49608
+cut5 weighted:4.88895
+nocut weighted:160.153
+error cut1 weighted:0.182035
+error cut2 weighted:0.0424627
+error cut3 weighted:0.0398678
+error cut4 weighted:0.0380646
+error cut5 weighted:0.0359006
+error nocut weighted:0.205476
+
+VBSWWH
+
+cut1: 501888
+cut2: 27869
+cut3: 24909
+cut4: 22767
+cut5: 20478
+events_count: 628248
+Nb_lose_nonoverlabbing: 7250
+cut1 weighted:113.495
+cut2 weighted:6.30216
+cut3 weighted:5.6328
+cut4 weighted:5.14842
+cut5 weighted:4.6308
+nocut weighted:142.069
+error cut1 weighted:0.160203
+error cut2 weighted:0.037751
+error cut3 weighted:0.03569
+error cut4 weighted:0.034121
+error cut5 weighted:0.0323603
+error nocut weighted:0.17924
+
